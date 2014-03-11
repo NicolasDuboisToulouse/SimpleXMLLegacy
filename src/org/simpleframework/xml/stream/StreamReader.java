@@ -20,12 +20,12 @@ package org.simpleframework.xml.stream;
 
 import java.util.Iterator;
 
-import javax.xml.stream.Location;
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.events.Attribute;
-import javax.xml.stream.events.Characters;
-import javax.xml.stream.events.StartElement;
-import javax.xml.stream.events.XMLEvent;
+import extra.javax.xml.stream.Location;
+import extra.javax.xml.stream.XMLEventReader;
+import extra.javax.xml.stream.events.Attribute;
+import extra.javax.xml.stream.events.Characters;
+import extra.javax.xml.stream.events.StartElement;
+import extra.javax.xml.stream.events.XMLEvent;
 
 /**
  * The <code>StreamReader</code> object provides an implementation

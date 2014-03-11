@@ -21,8 +21,8 @@ package org.simpleframework.xml.stream;
 import java.io.InputStream;
 import java.io.Reader;
 
-import javax.xml.stream.XMLEventReader;
-import javax.xml.stream.XMLInputFactory;
+import extra.javax.xml.stream.XMLEventReader;
+import extra.javax.xml.stream.XMLInputFactory;
 
 /**
  * The <code>StreamProvider</code> object is used to provide event
